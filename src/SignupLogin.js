@@ -6,13 +6,7 @@ import 'firebase/compat/firestore';
 import styles from './l.css'; // Import CSS module
 
 const firebaseConfig = {
-    apiKey: "AIzaSyD4HG49pbKKsjQ1W5e7wa55IjuQIMIWVDg",
-    authDomain: "massmaildispatcher-950d1.firebaseapp.com",
-    projectId: "massmaildispatcher-950d1",
-    storageBucket: "massmaildispatcher-950d1.appspot.com",
-    messagingSenderId: "112462308690",
-    appId: "1:112462308690:web:38d917bdfe4a42f467468b",
-    measurementId: "G-ZCJY5XBME8"
+   //config Your's
   };
 
 // Initialize Firebase
